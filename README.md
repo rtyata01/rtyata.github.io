@@ -27,9 +27,9 @@
   - Contributed to the development and improvement of Windows update engineering systems across multiple OS products (XP to Win Blue) from 2013 to 2015.
 
 **AI and ML Prototype/Exploration: (Present)**
-- Numeric Image Recognition: Classified handwritten numeric images using PyTorch and TensorFlow/Keras, leveraging convolutional neural networks (CNNs) for feature extraction.
-- AI Agent: Developed a conversational AI capable of answering general questions through integration with the OpenAI GPT API.
-- Stock Agent: Built a system to screen and forecast stocks based on fundamentals, quality, price, and volume, utilizing Scikit-Learn for model evaluation, time-series cross-validation, and prediction normalization.
+- **Numeric Image Recognition**: Classified handwritten numeric images using PyTorch and TensorFlow/Keras, leveraging convolutional neural networks (CNNs) for feature extraction.
+- **AI Agent**: Developed a conversational AI capable of answering general questions through integration with the OpenAI GPT API.
+- **Stock Agent**: Built a system to screen and forecast stocks based on fundamentals, quality, price, and volume, utilizing Scikit-Learn for model evaluation, time-series cross-validation, and prediction normalization.
 
 ## Talks & Lectures
 - Guest Lecture and Project Supervisor - Khwopa Engineering College

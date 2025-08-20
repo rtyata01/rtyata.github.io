@@ -15,9 +15,9 @@
 - **Machine Learning & AI**: Basic understanding of ML, DL, NLP, PyTorch and TensorFlow concepts.
 
 ## Work Experiences
-- **Microsoft - Senior Software Engineer** Sep 2019 – Mar 2025
-- **Microsoft - SDE I & II** Sep 2013 - Sep 2019
-- **Microsoft - Build Engineer I & II** Aug 2011 – Sep 2013**
+- **Microsoft - Senior Software Engineer** &nbsp;&nbsp;|&nbsp;Sep 2019 – Mar 2025
+- **Microsoft - SDE I & II** &nbsp;&nbsp;|&nbsp;Sep 2013 - Sep 2019
+- **Microsoft - Build Engineer I & II** &nbsp;&nbsp;|&nbsp;Aug 2011 – Sep 2013**
 - **Senior Role - WSD Packaging Interface, CSD/WDG**
   - Led the design and deployment of scalable cloud-based REST APIs and Service Fabric micro-services to handle high volume of package requests and complex data management tasks.
   - Designed and built micro-services using Azure Event Grid and Storage Queues to support advanced packaging features like CGDR, SIP, Update Rebase and WIM package content processing.

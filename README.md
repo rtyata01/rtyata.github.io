@@ -35,7 +35,7 @@
 - Guest Lecture and Project Supervisor - Khwopa Engineering College
 
 ## Publications
-- [Dec 2006, A step in programming with C](https://www.amazon.com/step-programming-C-Rakesh-Tyata/dp/B0D1TGW2XF)
+- [A step in programming with C (Dec 2006)](https://www.amazon.com/step-programming-C-Rakesh-Tyata/dp/B0D1TGW2XF)
 
 ## Thrilling Experiences
 - [Skydiving](https://www.youtube.com/watch?v=RPna458M3Cg)

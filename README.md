@@ -1,7 +1,7 @@
 # Software Engineer | Data Analyst | AI Enthusiast
 
 ## Education
-- M.S., Compute Science &nbsp;|&nbsp; Maharishi University of Management - Fairfield, Iowa, USA (Feb 2008 - Dec 2011)	 			        		
+- M.S., Computer Science &nbsp;|&nbsp; Maharishi University of Management - Fairfield, Iowa, USA (Feb 2008 - Dec 2011)	 			        		
 - B.S., Computer Engineering &nbsp;|&nbsp; Khwopa Engineering College - Bhaktapur, Nepal (2002 - Dec 2006)
 
 ## Technical Skills

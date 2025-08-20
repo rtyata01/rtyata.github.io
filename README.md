@@ -4,7 +4,7 @@
 - M.S., Compute Science &nbsp;|&nbsp; Maharishi University of Management - Fairfield, Iowa, USA (Feb 2008 - Dec 2011)	 			        		
 - B.S., Computer Engineering &nbsp;|&nbsp; Khwopa Engineering College - Bhaktapur, Nepal (2002 - Dec 2006)
 
-#### Technical Skills: 
+## Technical Skills
 - **Languages**: C#, T-SQL, Python, JavaScript, PowerShell, C, C++, CSS, HTML
 - **Cloud & DevOps**: Azure (Service Bus, Event Grid, App Services, Key Vault, Cosmos DB, Logic Apps, Functions, Storage, Managed Identities, Service Fabric, Kubernetes Service), CI/CD, Azure DevOps (ARM, Bicep and Terraform)
 - **Frameworks & Tools**: .NET Core 8, .NET Framework, Blazor, MVC, LINQ, Entity Framework (Code First), REST APIs, jQuery, Bootstrap, Selenium
@@ -14,7 +14,7 @@
 - **Databases**: SQL Server (clustered instances), Azure Storage and Cosmos DB, Azure Data Explorer
 - **Machine Learning & AI**: Basic understanding of ML, DL, NLP, PyTorch and TensorFlow concepts.
 
-## Work Experience
+## Work Experiences
 - **Microsoft - Senior Software Engineer &nbsp;|&nbsp; Sep 2019 – Mar 2025**
 - **Microsoft - SDE I & II	&nbsp;|&nbsp; Sep 2013 – Sep 2019**
 - **Microsoft - Build Engineer I & II &nbsp;|&nbsp; Aug 2011 – Sep 2013**
@@ -26,7 +26,7 @@
   - Managed and enhanced the legacy monolithic packaging system and database for different OS platforms, delivering critical patches (TH1, TH2, RS1 LCU packages)
   - Contributed to the development and improvement of Windows update engineering systems across multiple OS products (XP to Win Blue) from 2013 to 2015.
 
-**AI and ML Prototype/Exploration: (Present)**
+## AI and ML Prototype/Exploration: (Present)
 - **Numeric Image Recognition**: Classified handwritten numeric images using PyTorch and TensorFlow/Keras, leveraging convolutional neural networks (CNNs) for feature extraction.
 - **AI Agent**: Developed a conversational AI capable of answering general questions through integration with the OpenAI GPT API.
 - **Stock Agent**: Built a system to screen and forecast stocks based on fundamentals, quality, price, and volume, utilizing Scikit-Learn for model evaluation, time-series cross-validation, and prediction normalization.

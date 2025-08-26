@@ -53,7 +53,7 @@ Rakesh would be an asset to any organization that values innovation, excellence,
 [Jeffrey Paul](https://www.linkedin.com/in/jeffreypaul/): What I appreciated the most about working with Rakesh was his bias for action and positive attitude. Rakesh is a world class problem solver, solving not just the tactical fix but providing guidance and feedback on the right solution. Rakesh "super power" was not to know all the answers, but to be transparent on his opinion and follow through and thoughtfully provide well researched answers as part of a team. Rakesh is a true team player, making those around him better.
 
 ## Talks & Lectures
-- Guest Lecture and Project Supervisor - Khwopa Engineering College
+- Guest Lecture and Project Supervisor - Khwopa Engineering College 
 
 ## Publications
 - [A step in programming with C (Dec 2006)](https://www.amazon.com/step-programming-C-Rakesh-Tyata/dp/B0D1TGW2XF)

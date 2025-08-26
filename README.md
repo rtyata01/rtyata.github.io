@@ -31,6 +31,27 @@
 - **AI Agent**: Developed a conversational AI capable of answering general questions through integration with the OpenAI GPT API.
 - **Stock Agent**: Built a system to screen and forecast stocks based on fundamentals, quality, price, and volume, utilizing Scikit-Learn for model evaluation, time-series cross-validation, and prediction normalization.
 
+## Recommendations
+[Gary Wood](https://www.linkedin.com/in/realgarywood55/): I've worked with Rakesh since 2019 working on Microsoft packaging that allows developers to ship software that enable Windows users access to Windows security and feature updates. 
+    
+During this time we have worked together where I view Rakesh as an expert in the packaging domain that has been both an inspiration and a teacher. When I'm reaching out for knowlege, Rakesh always makes himself accessible with patience for assistance where this skill isn't as common as it should be with all team members. 
+
+He's developed a wealth of experience as an architect, developer, mentor and support engineer. Rakesh has a set of skills spanning from designing a solution, developing and supporting code for complete end to end solutions. I view Rakesh as a natural teacher that could easily instruct others with his wealth of knowledge.
+
+Engineering prowness spans Azure, C#, SQL, security, REST services, configuration and storage. What is exceptional his he has developed a close relationship with our users where that he's there 24x7 to help them when issues arrise.
+
+Although, Rakesh is currently in a senior engineering role, he easily could and should be placed in a principle engineer role. Lastly, what stands out to me with Rakesh his is teamwork, mentoring, accessiblity, trustworthness and history of delivering results.
+
+[Brian Scroggs](https://www.linkedin.com/in/brian-scroggs/): I had the pleasure of working with Rakesh for 2 years as his manager in the Windows Servicing and Delivery team at Microsoft.
+
+Rakesh was a valuable asset to our team and a champion of digital transformation. He was always eager to learn new technologies and tools, and he applied them effectively to improve our workflows and processes. He was also a hard worker who consistently delivered high-quality results.
+
+Rakesh was not only a skilled technical professional, but also a great team player and a mentor to newcomers. He excelled in collaborating with diverse stakeholders, even in contentious environments. He always communicated clearly and respectfully, and he handled conflicts and challenges with grace and professionalism. He also shared his knowledge and insights generously with others, and he helped many of his peers grow and develop their skills.
+
+Rakesh would be an asset to any organization that values innovation, excellence, and collaboration. I have no doubt that he will succeed in his future endeavors and bring value to his new team.
+
+[Jeffrey Paul](https://www.linkedin.com/in/jeffreypaul/): What I appreciated the most about working with Rakesh was his bias for action and positive attitude. Rakesh is a world class problem solver, solving not just the tactical fix but providing guidance and feedback on the right solution. Rakesh "super power" was not to know all the answers, but to be transparent on his opinion and follow through and thoughtfully provide well researched answers as part of a team. Rakesh is a true team player, making those around him better.
+
 ## Talks & Lectures
 - Guest Lecture and Project Supervisor - Khwopa Engineering College
 

@@ -1,7 +1,7 @@
 # Software Engineer | Data Analyst | AI Enthusiast
 
 ## Education
-- M.S., Compute Science &nbsp;|&nbsp; Maharishi University of Management - Fairfield, Iowa, USA (Feb 2008 - Dec 2011)	 			        		
+- M.S., Computer Science &nbsp;|&nbsp; Maharishi University of Management - Fairfield, Iowa, USA (Feb 2008 - Dec 2011)	 			        		
 - B.S., Computer Engineering &nbsp;|&nbsp; Khwopa Engineering College - Bhaktapur, Nepal (2002 - Dec 2006)
 
 ## Technical Skills
@@ -15,9 +15,9 @@
 - **Machine Learning & AI**: Basic understanding of ML, DL, NLP, PyTorch and TensorFlow concepts.
 
 ## Work Experiences
-- **Microsoft - Senior Software Engineer &nbsp;|&nbsp; Sep 2019 – Mar 2025**
-- **Microsoft - SDE I & II	&nbsp;|&nbsp; Sep 2013 – Sep 2019**
-- **Microsoft - Build Engineer I & II &nbsp;|&nbsp; Aug 2011 – Sep 2013**
+- **Microsoft - Senior Software Engineer** &nbsp;&nbsp;(Sep 2019 – Mar 2025)
+- **Microsoft - SDE I & II** &nbsp;&nbsp;(Sep 2013 - Sep 2019)
+- **Microsoft - Build Engineer I & II** &nbsp;&nbsp;(Aug 2011 – Sep 2013)
 - **Senior Role - WSD Packaging Interface, CSD/WDG**
   - Led the design and deployment of scalable cloud-based REST APIs and Service Fabric micro-services to handle high volume of package requests and complex data management tasks.
   - Designed and built micro-services using Azure Event Grid and Storage Queues to support advanced packaging features like CGDR, SIP, Update Rebase and WIM package content processing.
@@ -56,7 +56,7 @@ Rakesh would be an asset to any organization that values innovation, excellence,
 - Guest Lecture and Project Supervisor - Khwopa Engineering College
 
 ## Publications
-- [A step in programming with C](https://www.amazon.com/step-programming-C-Rakesh-Tyata/dp/B0D1TGW2XF)
+- [A step in programming with C (Dec 2006)](https://www.amazon.com/step-programming-C-Rakesh-Tyata/dp/B0D1TGW2XF)
 
 ## Thrilling Experiences
 - [Skydiving](https://www.youtube.com/watch?v=RPna458M3Cg)
